@@ -4,18 +4,11 @@ a cs50 pset.
 
 https://docs.cs50.net/2018/x/psets/7/finance/finance.html#specification
 
-
-tl;dr
-
 Implemented a website via which users can "buy" and "sell" stocks.
 
+Uses IEX api for realtime stock prices.
 
 flask,python,sql.
-
-deployed in AWS ELASTIC BEANSTALK.
-
-
-url : http://tuna.ap-south-1.elasticbeanstalk.com
 
 -------------------------------------------------------------------------------------------------------
 things to do:
